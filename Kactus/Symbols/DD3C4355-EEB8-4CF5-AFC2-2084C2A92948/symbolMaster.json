@@ -1,17 +1,20 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "CCEDD883-00DC-4ABE-8558-8DB5C24D055A",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 35,
   "clippingMaskMode": 0,
-  "do_objectID": "01B6E980-D749-4A18-A127-3C4C8214903B",
+  "do_objectID": "DD3C4355-EEB8-4CF5-AFC2-2084C2A92948",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "236E568B-A0B0-42DE-A8D2-9D54DB8FE5BC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,10 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 498,
-    "width": 614,
-    "x": 295,
-    "y": 144
+    "do_objectID": "8292458D-D58B-4757-9787-CBE6623BD365",
+    "height": 54,
+    "width": 127,
+    "x": 100,
+    "y": 154
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -33,10 +37,12 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "CBB5A30A-7F39-47B6-9D99-9854DA16CE11",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -44,35 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "C7D797CE-FCAE-4231-8B7B-BC85C312E871"
-    },
-    {
-      "class": "group",
-      "id": "144601E9-22A5-44E9-BC32-29F939F04469"
-    },
-    {
-      "class": "group",
-      "id": "05EA6D6C-3E5B-457F-AA3D-803E5A2CC81A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C68CCF7E-B023-413A-89F7-58981F0E4B85"
-    },
-    {
-      "class": "text",
-      "id": "BC107DCE-7F94-46B0-ACAF-D59D96F2F9B2"
-    },
-    {
-      "class": "group",
-      "id": "C7699D27-5686-49AA-BF8C-7158DBFD8CF4"
+      "class": "rectangle",
+      "id": "0FE69317-567C-4E0E-BA3C-B6826B8019C9"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "red",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -80,14 +66,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "512C1FF9-D0D7-40F8-8E8F-5C684A6AFD83",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "71E516A2-2EC4-4C48-90BD-30E4C78C584E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "716CFCCD-30C8-4CE0-9070-D9BC43B4FF45",
     "guides": [
     ]
   }

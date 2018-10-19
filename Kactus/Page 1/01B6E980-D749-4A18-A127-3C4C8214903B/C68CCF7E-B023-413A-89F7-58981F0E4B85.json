@@ -1,10 +1,11 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7FDDFC57-3BF2-4400-AF7E-9F25B4B3C923",
+  "do_objectID": "C68CCF7E-B023-413A-89F7-58981F0E4B85",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "D70B0D29-2747-410E-A755-D9F9623F5DD4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,53 +16,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "do_objectID": "88E06CF4-D663-4195-B708-0582F8F577D4",
+    "height": 54,
+    "width": 127,
+    "x": 64,
+    "y": 91
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "button",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "artboard",
-      "id": "01B6E980-D749-4A18-A127-3C4C8214903B"
-    },
-    {
-      "class": "text",
-      "id": "4B658D06-3566-46FD-9E33-38D1FC46D24C"
+      "_class": "overrideValue",
+      "do_objectID": "C0D00B2F-C755-4AE2-9644-BA42298DA490",
+      "overrideName": "41F6B3C4-23BE-48CC-BC0D-38F7CE6CCC35_stringValue",
+      "value": "Edit"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "87ECD95B-C815-41C9-A964-75A9EC3F00F4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "3B6F892C-19E4-418B-91F5-62D5024D7D85",
+  "verticalSpacing": 0
 }

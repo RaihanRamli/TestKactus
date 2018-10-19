@@ -33,6 +33,75 @@
     "version": 112
   },
   "pages": [
-    "Page 1"
-  ]
+    "Page 1",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.lingoapp.lingo": {
+      "connected_kit": {
+        "kit_uuid": "F3FB1713-0AD9-454D-AC0B-07E8C1D72E82",
+        "space_id": "16543",
+        "version": 0
+      },
+      "first_version": 110,
+      "min_version": 84,
+      "storage": {
+        "hashes": {
+          "colors": {
+          },
+          "layerStyles": {
+          },
+          "layers": {
+            "05EA6D6C-3E5B-457F-AA3D-803E5A2CC81A": {
+              "hash": "dd18a3f3e8adf7cfbfe2bb516cd1eb55372cc844",
+              "name": "Group 4"
+            },
+            "144601E9-22A5-44E9-BC32-29F939F04469": {
+              "hash": "5db182844d3f2784e5801cb79b7f0cb85761affe",
+              "name": "Group Copy"
+            },
+            "BC107DCE-7F94-46B0-ACAF-D59D96F2F9B2": {
+              "hash": "a3df3b5da6c9250469b442e9580796bf4745ddbe",
+              "name": "TitleText"
+            },
+            "C7D797CE-FCAE-4231-8B7B-BC85C312E871": {
+              "hash": "96d9e45653cebdeea8485fe394a0d47cc31fc866",
+              "name": "Group"
+            }
+          },
+          "symbols": {
+            "63CAB5C9-007F-472E-B661-044305FBDBF3": {
+              "hash": "21b7a56e458b15d775400dd46a46d702363f8819",
+              "name": "green"
+            },
+            "6A919667-3376-4D5B-AF3D-28BC2EAE6BCF": {
+              "hash": "f6f04313dff0a9ed1cd8259bf578f75468398333",
+              "name": "button"
+            }
+          },
+          "textStyles": {
+          }
+        },
+        "skipped": [
+        ],
+        "sync": {
+          "colors": {
+          },
+          "layerStyles": {
+          },
+          "layers": {
+            "40B605F9-BCC4-4345-A718-A559E2F1C15A": "05EA6D6C-3E5B-457F-AA3D-803E5A2CC81A",
+            "41A8739E-ECCA-478D-AD27-5CE972F65A82": "144601E9-22A5-44E9-BC32-29F939F04469",
+            "EBB89D57-E7DB-4FE0-B602-23D31ECF4C01": "C7D797CE-FCAE-4231-8B7B-BC85C312E871",
+            "F104156D-115F-42CF-A6BE-931A4EB2159B": "BC107DCE-7F94-46B0-ACAF-D59D96F2F9B2"
+          },
+          "symbols": {
+          },
+          "textStyles": {
+          }
+        }
+      },
+      "version": 110
+    }
+  }
 }

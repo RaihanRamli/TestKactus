@@ -2,7 +2,7 @@
   "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7FDDFC57-3BF2-4400-AF7E-9F25B4B3C923",
+  "do_objectID": "2C6D58F8-3C33-4873-BDF3-D8D72DF5B4EA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -37,15 +37,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "01B6E980-D749-4A18-A127-3C4C8214903B"
+      "class": "symbolMaster",
+      "id": "6A919667-3376-4D5B-AF3D-28BC2EAE6BCF"
     },
     {
-      "class": "text",
-      "id": "4B658D06-3566-46FD-9E33-38D1FC46D24C"
+      "class": "symbolMaster",
+      "id": "63CAB5C9-007F-472E-B661-044305FBDBF3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DD3C4355-EEB8-4CF5-AFC2-2084C2A92948"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "ADE405C6-2752-4D95-8654-0D8547A52202"
     }
   ],
-  "name": "Page 1",
+  "name": "Symbols",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
